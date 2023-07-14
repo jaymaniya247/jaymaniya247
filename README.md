@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaymaniya247" alt="jaymaniya247" /></a> </p>
 
-- 🔭 I’m currently working **ISCB**
+- 🔭 I’m currently workin on **Vongo - Event Creation Platform**
 
-- 🌱 I’m currently learning React Typescript **Typescript, Advance Nodejs concepts , ReactNative**
+- 🌱 I’m currently learning **Typescript, Advance Nodejs concepts , ReactNative**
 
 - 👯 I’m looking to collaborate on **MERN Projects**
 
-- 💬 Ask me about Anything **ReactJS , Mongodb , NodeJS , ExpressJS , Core PHP**
+- 💬 Ask me about **ReactJS , Mongodb , NodeJS , ExpressJS , Core PHP**
 
 - 📫 How to reach me **jaymaniya247@gmail.com**
 
