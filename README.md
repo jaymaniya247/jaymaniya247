@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay Maniya</h1>
-<h3 align="center">A Passionate Full Stack developer from India</h3>
+<h3 align="center">A Passionate Full Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaymaniya247&label=Profile%20views&color=0e75b6&style=flat" alt="jaymaniya247" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently workin on **Vongo - Event Creation Platform**
 
-- 🌱 I’m currently learning **Typescript, Advance Nodejs concepts , ReactNative**
+- 🌱 I’m currently learning **Advance Nodejs concepts , ReactNative**
 
 - 👯 I’m looking to collaborate on **MERN Projects**
 
